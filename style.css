@@ -37,6 +37,7 @@ body {
   /*podemos criar um atalho único para todas essas características
    background: url(./assets/assets/bg-mobile.jpg) no-repeat top center/cover  
   */
+  height: 100vh;
 }
 
 body * {
