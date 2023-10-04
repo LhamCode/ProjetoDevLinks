@@ -9,7 +9,7 @@ function toggleMode() {
   } else {
     html.classList.add("light")
     img.setAttribute('src', './assets/assets/avatar-light.png')
-    img.setAttribute("alt", "luã sério de óculos escuro")
+    img.setAttribute("alt", "luã sorrindo de bone")
   }
 
   //pegar a tag img//
